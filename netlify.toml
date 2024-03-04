@@ -1,0 +1,7 @@
+[build]
+  publish = "html"
+[[redirects]]
+  from = "/*"
+  to = "/Lawmine.html"
+  status = 200
+  force = true
