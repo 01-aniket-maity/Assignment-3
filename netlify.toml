@@ -2,6 +2,6 @@
   publish = "."
 [[redirects]]
   from = "/*"
-  to = "/Lawmine.html"
+  to = "/index.html"
   status = 200
   force = true
